@@ -1,0 +1,2 @@
+# Ignore raw dump csv, starts with year
+20*.csv
